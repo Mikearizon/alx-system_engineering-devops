@@ -1,1 +1,1 @@
-Display the content of the /etc/passwd file
+scripts 1-23 are scrpts codes for shell respositoning
